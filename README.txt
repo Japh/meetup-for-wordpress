@@ -29,6 +29,6 @@ Uses the [Meetup PHP API](https://github.com/wizonesolutions/meetup_api) develop
 
 == Changelog ==
 
-= 1.0 =
-* Initial release
+= 0.1 =
+* Initial release, not in a usable state currently.
 * Forked from [WP Meetup](http://wordpress.org/extend/plugins/wp-meetup/)
