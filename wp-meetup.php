@@ -24,6 +24,10 @@ Copyright 2012  Japh
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
+/*
+ * This plugin is a fork of the WP-Meetup plugin by Nuanced Media.
+ */
+
 include(dirname(__FILE__) . DIRECTORY_SEPARATOR . "meetup_api/MeetupAPIBase.php");
 include(dirname(__FILE__) . DIRECTORY_SEPARATOR . "model.php");
 include(dirname(__FILE__) . DIRECTORY_SEPARATOR . "models/event-posts.php");
