@@ -1,13 +1,14 @@
 <?php
 /*
-Plugin Name: WP Meetup
-Plugin URI: http://nuancedmedia.com/wordpress-meetup-plugin/
-Description: Pulls events from Meetup.com onto your blog
-Version: 1.4.4
-Author: Nuanced Media
-Author URI: http://nuancedmedia.com/
+Plugin Name: Meetup.com for WordPress
+Plugin URI: https://github.com/Japh/meetup-for-wordpress
+Description: Meetup.com for WordPress allows you to integrate your Meetup.com account with your website to bring in meet up and event information.
+Version: 1.0
+Author: Japh
+Author URI: http://wp.envato.com/
+License: GPL2
 
-Copyright 2011  Nuanced Media
+Copyright 2012  Japh
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
