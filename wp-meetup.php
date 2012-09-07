@@ -3,7 +3,7 @@
 Plugin Name: Meetup.com for WordPress
 Plugin URI: https://github.com/Japh/meetup-for-wordpress
 Description: Meetup.com for WordPress allows you to integrate your Meetup.com account with your website to bring in meet up and event information.
-Version: 1.0
+Version: 0.1
 Author: Japh
 Author URI: http://wp.envato.com/
 License: GPL2

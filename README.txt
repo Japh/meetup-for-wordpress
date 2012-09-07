@@ -4,7 +4,7 @@ Donate link: http://www.wpaustralia.org/
 Tags: meetup,meetup.com
 Requires at least: 3.2
 Tested up to: 3.4.2
-Stable tag: 1.0
+Stable tag: 0.1
 
 Meetup.com for WordPress allows you to integrate your Meetup.com account with your website to bring in meet up and event information.
 
