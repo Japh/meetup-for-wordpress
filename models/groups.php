@@ -8,7 +8,9 @@ class WP_Meetup_Groups extends WP_Meetup_Model {
 		global $wpdb;
 		$this->wpdb = &$wpdb;
 		$this->table_name = $this->table_prefix . 'groups';
-		$this->create_table();
+		if ( $wpdb->get_var( "SHOW TABLES LIKE '" . $this->table_name . "';" ) != $this->table_name ) {
+			$this->create_table();
+		}
 	}
 
 	function create_table() {
