@@ -27,7 +27,7 @@ Copyright 2012  Japh
 /*
  * This plugin is a fork of the WP-Meetup plugin by Nuanced Media.
  */
-define( DS, DIRECTORY_SEPARATOR );
+define( 'DS', DIRECTORY_SEPARATOR );
 
 include( dirname( __FILE__ ) . DS . 'meetup_api' . DS . 'MeetupAPIBase.php' );
 include( dirname( __FILE__ ) . DS . 'model.php' );
