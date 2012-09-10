@@ -195,10 +195,10 @@ class WP_Meetup {
 			foreach ( $attributes as $key => $value ) {
 				if ( in_array( $key, array( 'selected', 'checked' ) ) ) {
 					if ( $value ) {
-						$html_string .= $key . '="' . $key . '"';
+						$html_string .= ' ' . $key . '="' . $key . '"';
 					}
 				} else if ( $value != '') {
-					$html_string .= $key . '="' . $value . '"';
+					$html_string .= ' ' . $key . '="' . $value . '"';
 				}
 			}
 		} else {
